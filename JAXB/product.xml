@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productEntity id="1">
+   <productName>Iphone</productName>
+   <productPrice>20000.0</productPrice>
+   <productCategory>phone</productCategory>
+   <productBrand>apple</productBrand>
+</productEntity>
